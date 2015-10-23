@@ -12,11 +12,11 @@ A simple easy to follow code sample for making use of [gulp-livereload](https://
 
 ## Once You're Setup
 
-    1. Open up your command line again, type 'gulp' and hit enter,
-    3. The server should now be running.
-    3. Go to localhost:8080 in your web browser of choice.
-    4. Edit index.html in your text editor of choice.
-    5. Bang! Live Reload!
+1. Open up your command line again, type 'gulp' and hit enter,
+3. The server should now be running.
+3. Go to localhost:8080 in your web browser of choice.
+4. Edit index.html in your text editor of choice.
+5. Bang! Live Reload!
 
 ## ACTION SHOT
 
