@@ -10,7 +10,7 @@ A simple easy to follow code sample for making use of [gulp-livereload](https://
         npm install
 
 
-## Once you're setup:
+## Once You're Setup
 
     1. Open up your command line again, type 'gulp' and hit enter,
     3. The server should now be running.
