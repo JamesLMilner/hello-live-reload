@@ -17,3 +17,7 @@ A simple easy to follow code sample for making use of [gulp-livereload](https://
     3. Go to localhost:8080 in your web browser of choice.
     4. Edit index.html in your text editor of choice.
     5. Bang! Live Reload!
+
+## ACTION SHOT
+
+![A animated screenshot of the live reload in action](https://github.com/JamesMilnerUK/hello-live-reload/blob/master/live-reload.gif)
