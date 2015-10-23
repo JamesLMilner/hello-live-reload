@@ -1,6 +1,6 @@
 # Hello Live Reload
 
-A simple easy to follow code sample for making use of [gulp-livereload](https://www.npmjs.com/package/gulp-livereload/) for web development. [Live Reload](http://livereload.com/) allows you to edit and save files causing an automatic page refresh (no refreshing for CSS!)
+A simple easy to follow code sample for making use of [gulp-livereload](https://www.npmjs.com/package/gulp-livereload/) for web development. [Live Reload](http://livereload.com/) allows you to edit and save files causing an automatic page refresh (no refreshing for CSS and images!)
 
 ## Prerequisites
     Install [Node.js](https://nodejs.org/en/) if you haven't already
