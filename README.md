@@ -2,9 +2,18 @@
 
 A simple easy to follow code sample for making use of [gulp-livereload](https://www.npmjs.com/package/gulp-livereload/) for web development. [Live Reload](http://livereload.com/) allows you to edit and save files causing an automatic page refresh (no refreshing for CSS!)
 
-    1. Go to your command line
-    2. Navigate to the local folder
-    3. Type gulp and hit enter, the server should be running
-    4. Go to localhost:8080
-    5. Edit index.html
-    6. Bang! Live Reload!
+## Prerequisites
+    Install [Node.js](https://nodejs.org/en/) if you haven't already
+    Node comes with npm (node package manager) installed, so your good on that front
+    Open up your command line and change directory into your desired folder, then type:
+        git clone https://github.com/JamesMilnerUK/hello-live-reload
+        npm install
+
+
+## Once you're setup:
+
+    1. Open up your command line again, type 'gulp' and hit enter,
+    3. The server should now be running.
+    3. Go to localhost:8080 in your web browser of choice.
+    4. Edit index.html in your text editor of choice.
+    5. Bang! Live Reload!
