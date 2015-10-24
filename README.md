@@ -4,7 +4,7 @@ A simple easy to follow code sample for making use of [gulp-livereload](https://
 
 ## Prerequisites
 * Install [Node.js](https://nodejs.org/en/) if you haven't already
-* Node comes with npm (node package manager) installed, so your good on that front
+* Node comes with npm (node package manager) installed, so you're good on that front
 * Open up your command line and change directory into your desired folder, then type:
     * git clone https://github.com/JamesMilnerUK/hello-live-reload
     * npm install
